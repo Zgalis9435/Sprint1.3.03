@@ -6,4 +6,5 @@
  *
  */
 module countriesProject {
+	requires java.desktop;
 }
